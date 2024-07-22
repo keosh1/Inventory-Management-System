@@ -39,3 +39,26 @@ C:\Users\dell\Documents\Visual Studio 2010\Projects\inventory\inventory\obj\x86\
 J:\programming tutorials\c# projects\Inventory Final\inventory\inventory\bin\Debug\inventory.exe.config
 J:\programming tutorials\c# projects\Inventory Final\inventory\inventory\obj\x86\Debug\inventory.exe
 J:\programming tutorials\c# projects\Inventory Final\inventory\inventory\obj\x86\Debug\inventory.pdb
+D:\C#\inventory\bin\Debug\inventory.exe.config
+D:\C#\inventory\bin\Debug\inventory.exe
+D:\C#\inventory\bin\Debug\inventory.pdb
+D:\C#\inventory\obj\x86\Debug\inventory.csproj.AssemblyReference.cache
+D:\C#\inventory\obj\x86\Debug\inventory.About.resources
+D:\C#\inventory\obj\x86\Debug\inventory.A_customer.resources
+D:\C#\inventory\obj\x86\Debug\inventory.A_item.resources
+D:\C#\inventory\obj\x86\Debug\inventory.A_purchase.resources
+D:\C#\inventory\obj\x86\Debug\inventory.A_sale.resources
+D:\C#\inventory\obj\x86\Debug\inventory.A_supplier.resources
+D:\C#\inventory\obj\x86\Debug\inventory.Form1.resources
+D:\C#\inventory\obj\x86\Debug\inventory.help.resources
+D:\C#\inventory\obj\x86\Debug\inventory.loading.resources
+D:\C#\inventory\obj\x86\Debug\inventory.Properties.Resources.resources
+D:\C#\inventory\obj\x86\Debug\inventory.v_customer.resources
+D:\C#\inventory\obj\x86\Debug\inventory.V_item.resources
+D:\C#\inventory\obj\x86\Debug\inventory.V_purchase.resources
+D:\C#\inventory\obj\x86\Debug\inventory.V_sale.resources
+D:\C#\inventory\obj\x86\Debug\inventory.V_supplier.resources
+D:\C#\inventory\obj\x86\Debug\inventory.csproj.GenerateResource.cache
+D:\C#\inventory\obj\x86\Debug\inventory.csproj.CoreCompileInputs.cache
+D:\C#\inventory\obj\x86\Debug\inventory.exe
+D:\C#\inventory\obj\x86\Debug\inventory.pdb
